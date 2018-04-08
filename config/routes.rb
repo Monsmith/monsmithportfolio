@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
   resources :portfolios
+  resources :pins
+
   get 'home/about'
   root to: 'home#about'
 
