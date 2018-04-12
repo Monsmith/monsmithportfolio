@@ -57,3 +57,4 @@ gem 'bootstrap'
 gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'devise'
+gem "paperclip", "~> 6.0.0"
